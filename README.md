@@ -2,7 +2,7 @@
 
 # Olá Devs
 <p> 
-  Esse jogo foi criado durante o Bootcamp Take Blip Web Developer da Dio.Me
+  ``Esse jogo foi criado durante o Bootcamp Take Blip Web Developer da Dio.Me``
 </p>
 
 # Resumo do projeto
