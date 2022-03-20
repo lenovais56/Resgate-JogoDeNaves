@@ -32,4 +32,4 @@
 
 ## 💻 Acesse o jogo e se divirta
 
-https://vercel.com/lenovais56/resgate-jogo-de-naves/GQqbFT923TLPV2Ea5529YfLDtUVp
+https://resgate-jogo-de-naves-9gtydjuv7-lenovais56.vercel.app/
