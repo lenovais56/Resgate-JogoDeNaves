@@ -29,3 +29,5 @@
 - ``VS code``
 
 ## 💻 Acesse o jogo e se divirta
+
+https://vercel.com/lenovais56/resgate-jogo-de-naves/GQqbFT923TLPV2Ea5529YfLDtUVp
